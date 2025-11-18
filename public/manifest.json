@@ -1,6 +1,7 @@
 {
   "short_name": "Pomodora Timer",
   "name": "Pomodora timer client",
+  "author": "@uayanaksha"
   "icons": {
     "32": "favicon.ico"
   }
