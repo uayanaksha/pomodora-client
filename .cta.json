@@ -1,0 +1,12 @@
+{
+  "projectName": "pomodora-client",
+  "mode": "code-router",
+  "typescript": false,
+  "tailwind": false,
+  "packageManager": "bun",
+  "git": true,
+  "addOnOptions": {},
+  "version": 1,
+  "framework": "react-cra",
+  "chosenAddOns": []
+}
