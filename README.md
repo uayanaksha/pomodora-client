@@ -15,4 +15,4 @@
 
 ## Deployment
   
-  - deploy url: [pomodora.ayanaksha.vercel.app](https://pomodora.ayanaksha.vercel.app)
+  - deploy url: [pomodora-ayanaksha.vercel.app](https://pomodora-ayanaksha.vercel.app)
