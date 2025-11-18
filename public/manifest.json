@@ -1,0 +1,13 @@
+{
+  "short_name": "Pomodora Timer",
+  "name": "Pomodora timer client",
+  "icons": {
+    "32": "favicon.ico"
+  }
+  ,
+  "start_url": ".",
+  "homepage_url": "https://pomodora.ayanaksha.vercel.app",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#0a0a0a"
+}
